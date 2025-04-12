@@ -1,0 +1,48 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Shiro Hikari\\Documents\\Workspace\\Rimworld\\FAFix\\1.5\\Source\\notify.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Shiro Hikari\\Documents\\Workspace\\Rimworld\\FAFix\\1.5\\Source\\notify.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Shiro Hikari\\Documents\\Workspace\\Rimworld\\FAFix\\1.5\\Source\\notify.csproj",
+        "projectName": "FaFix",
+        "projectPath": "C:\\Users\\Shiro Hikari\\Documents\\Workspace\\Rimworld\\FAFix\\1.5\\Source\\notify.csproj",
+        "packagesPath": "C:\\Users\\Shiro Hikari\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Shiro Hikari\\Documents\\Workspace\\Rimworld\\FAFix\\1.5\\Source\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Shiro Hikari\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net472"
+        ],
+        "frameworks": {
+          "net472": {
+            "targetAlias": "net472",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.100"
+      },
+      "frameworks": {
+        "net472": {
+          "targetAlias": "net472",
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.105\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
