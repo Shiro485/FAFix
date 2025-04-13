@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Shiro Hikari\\Documents\\Workspace\\Rimworld\\FAFix\\1.5\\Source\\notify.csproj": {}
+    "C:\\GOG Games\\RimWorld\\Mods\\FAFix\\1.5\\Source\\notify.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Shiro Hikari\\Documents\\Workspace\\Rimworld\\FAFix\\1.5\\Source\\notify.csproj": {
+    "C:\\GOG Games\\RimWorld\\Mods\\FAFix\\1.5\\Source\\notify.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Shiro Hikari\\Documents\\Workspace\\Rimworld\\FAFix\\1.5\\Source\\notify.csproj",
+        "projectUniqueName": "C:\\GOG Games\\RimWorld\\Mods\\FAFix\\1.5\\Source\\notify.csproj",
         "projectName": "FaFix",
-        "projectPath": "C:\\Users\\Shiro Hikari\\Documents\\Workspace\\Rimworld\\FAFix\\1.5\\Source\\notify.csproj",
+        "projectPath": "C:\\GOG Games\\RimWorld\\Mods\\FAFix\\1.5\\Source\\notify.csproj",
         "packagesPath": "C:\\Users\\Shiro Hikari\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Shiro Hikari\\Documents\\Workspace\\Rimworld\\FAFix\\1.5\\Source\\obj\\",
+        "outputPath": "C:\\GOG Games\\RimWorld\\Mods\\FAFix\\1.5\\Source\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Shiro Hikari\\AppData\\Roaming\\NuGet\\NuGet.Config"

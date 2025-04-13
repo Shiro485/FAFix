@@ -1,5 +1,5 @@
 is_global = true
-build_property.RootNamespace = notify
+build_property.RootNamespace = rjw
 build_property.ProjectDir = C:\GOG Games\RimWorld\Mods\FAFix\1.5\Source\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

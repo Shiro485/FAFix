@@ -3,15 +3,27 @@
     <AssemblyName>FaFix</AssemblyName>
     <GenerateAssemblyInfo>False</GenerateAssemblyInfo>
     <TargetFramework>net472</TargetFramework>
+    <OutputType>Library</OutputType>
+    <NoStdLib>false</NoStdLib>
+    <OutputPath>..\Assemblies\</OutputPath>
   </PropertyGroup>
 
   <PropertyGroup>
-    <LangVersion>12.0</LangVersion>
+    <LangVersion>latest</LangVersion>
     <AllowUnsafeBlocks>True</AllowUnsafeBlocks>
+    <AppendTargetFrameworkToOutputPath>false</AppendTargetFrameworkToOutputPath>
+    <GenerateAssemblyInfo>False</GenerateAssemblyInfo>
+    <FileAlignment>512</FileAlignment>
+    <RootNamespace>rjw</RootNamespace>
+    <Deterministic>false</Deterministic>
+    <Prefer32Bit>false</Prefer32Bit>
   </PropertyGroup>
 
-  <PropertyGroup />
-  <ItemGroup />
+  <ItemDefinitionGroup>
+    <Reference><Private>False</Private></Reference>
+    <ProjectReference><Private>False</Private></ProjectReference>
+    <PackageReference><ExcludeAssets>runtime</ExcludeAssets></PackageReference>
+  </ItemDefinitionGroup>
   <ItemGroup>
     <Reference Include="Assembly-CSharp">
       <HintPath>C:\GOG Games\RimWorld\RimWorldWin64_Data\Managed\Assembly-CSharp.dll</HintPath>

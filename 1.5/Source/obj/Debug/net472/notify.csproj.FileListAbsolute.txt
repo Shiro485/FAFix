@@ -39,3 +39,11 @@ C:\Users\Shiro Hikari\Documents\Workspace\Rimworld\FAFix\1.5\Source\obj\Debug\ne
 C:\Users\Shiro Hikari\Documents\Workspace\Rimworld\FAFix\1.5\Source\obj\Debug\net472\notify.csproj.Up2Date
 C:\Users\Shiro Hikari\Documents\Workspace\Rimworld\FAFix\1.5\Source\obj\Debug\net472\FaFix.dll
 C:\Users\Shiro Hikari\Documents\Workspace\Rimworld\FAFix\1.5\Source\obj\Debug\net472\FaFix.pdb
+C:\GOG Games\RimWorld\Mods\FAFix\1.5\Assemblies\net472\FaFix.dll
+C:\GOG Games\RimWorld\Mods\FAFix\1.5\Assemblies\net472\FaFix.pdb
+C:\GOG Games\RimWorld\Mods\FAFix\1.5\Source\obj\Debug\net472\notify.csproj.AssemblyReference.cache
+C:\GOG Games\RimWorld\Mods\FAFix\1.5\Source\obj\Debug\net472\notify.GeneratedMSBuildEditorConfig.editorconfig
+C:\GOG Games\RimWorld\Mods\FAFix\1.5\Source\obj\Debug\net472\notify.csproj.CoreCompileInputs.cache
+C:\GOG Games\RimWorld\Mods\FAFix\1.5\Source\obj\Debug\net472\notify.sourcelink.json
+C:\GOG Games\RimWorld\Mods\FAFix\1.5\Source\obj\Debug\net472\FaFix.dll
+C:\GOG Games\RimWorld\Mods\FAFix\1.5\Source\obj\Debug\net472\FaFix.pdb

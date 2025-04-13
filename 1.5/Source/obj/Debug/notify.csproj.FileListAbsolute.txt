@@ -1,0 +1,8 @@
+C:\GOG Games\RimWorld\Mods\FAFix\1.5\Assemblies\FaFix.dll
+C:\GOG Games\RimWorld\Mods\FAFix\1.5\Assemblies\FaFix.pdb
+C:\GOG Games\RimWorld\Mods\FAFix\1.5\Source\obj\Debug\notify.csproj.AssemblyReference.cache
+C:\GOG Games\RimWorld\Mods\FAFix\1.5\Source\obj\Debug\notify.GeneratedMSBuildEditorConfig.editorconfig
+C:\GOG Games\RimWorld\Mods\FAFix\1.5\Source\obj\Debug\notify.csproj.CoreCompileInputs.cache
+C:\GOG Games\RimWorld\Mods\FAFix\1.5\Source\obj\Debug\notify.sourcelink.json
+C:\GOG Games\RimWorld\Mods\FAFix\1.5\Source\obj\Debug\FaFix.dll
+C:\GOG Games\RimWorld\Mods\FAFix\1.5\Source\obj\Debug\FaFix.pdb
